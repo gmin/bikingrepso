@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>pro.neex</groupId>
+  <artifactId>neex-spot-bardatabuilder</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221201134346</lastUpdated>
+  </versioning>
+</metadata>
