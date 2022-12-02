@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 27 00:04:04 GST 2022
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://0.0.0.0/.error=Could not transfer artifact com.coinw\:account-common-service-facade\:pom\:1.0.0-SNAPSHOT from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [public (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1669493044480
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1669208045713
